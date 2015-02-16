@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="HiJackTest/HiJackTest.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.Derek's iPhone 5s" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HiJackTest/Main.cs">
+    <Files>
+      <File FileName="HiJackTest/AppDelegate.cs" Line="43" Column="43" />
+      <File FileName="HiJackTest/StartViewController.cs" Line="9" Column="9" />
+      <File FileName="HiJackTest/Main.cs" Line="9" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
